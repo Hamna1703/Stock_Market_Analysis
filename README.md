@@ -86,12 +86,9 @@ Example stocks analyzed:
 ---
 
 ## 📷 Sample Outputs
-Stock closing  price graph
 <img width="512" height="274" alt="image" src="https://github.com/user-attachments/assets/c6f17caa-7938-4f59-ad2f-6f452ab3ac35" />
 <img width="524" height="265" alt="image" src="https://github.com/user-attachments/assets/f36b7468-b9da-4802-8623-7ab26340275a" />
-Daily Returns
 <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/04529919-4dca-4f43-9c95-b00f07e30734" />
-Return Distributions
 <img width="439" height="269" alt="image" src="https://github.com/user-attachments/assets/f2a7cbe0-8076-4960-939f-8092471d87b2" />
 
 ---
